@@ -1,6 +1,6 @@
 # Sports-Celebrity-Classifier
 
-In this data science and machine learning project, I build a model to classify sports personalities. I restrict classification to only 5 people
+In this data science and machine learning project, I build a model to classify sports celebrity. I restrict classification to only 5 people
 
 * Lionel Messi
 * Malek Jaziri
